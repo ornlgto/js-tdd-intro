@@ -1,5 +1,5 @@
 const assert = require('assert');
-const capitalizeFirst = require('./capitalizeFirst');
+const capitalizeFirst = require('../capitalizeFirst');
 
 
 describe('capitalizeFirst', () => {
